@@ -29,7 +29,7 @@ The "House Price Prediction Using Advanced Linear Regression Methods" project ai
  **Clone the Repository**:
  
    ```bash
-   git clone https://github.com/sandyd6/house-price-prediction.git
+   https://github.com/sandyg6/PRASUNET.git
    ```
 
  **Run the Streamlit App**:
