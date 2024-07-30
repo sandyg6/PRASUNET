@@ -1,9 +1,9 @@
 
-### House Price Prediction Using Advanced Linear Regression Methods
+### House Price Prediction Using Advanced Linear Regression 🏡
 
 #### Project Description
 
-The "House Price Prediction Using Advanced Linear Regression Methods" project aims to create a robust model capable of predicting house prices based on various features of the properties. This project utilizes advanced linear regression techniques along with preprocessing steps to handle the intricacies of the dataset, which includes a mix of numerical and categorical features. The ultimate goal is to provide accurate and reliable predictions for house prices, leveraging the comprehensive dataset provided by the Kaggle competition: [ House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
+The "House Price Prediction Using Advanced Linear Regression Methods" project aims to create a robust model capable of predicting house prices based on various features of the properties. This project utilizes advanced linear regression techniques along with preprocessing steps to handle the intricacies of the dataset, which includes a mix of numerical and categorical features. The ultimate goal is to provide accurate and reliable predictions for house prices, leveraging the comprehensive dataset: [ House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
 #### Key Features
 
