@@ -1,4 +1,4 @@
-# Customer Segmentation Using K-Means Clustering Algorithm
+# Customer Segmentation Using K-Means Clustering Algorithm 👩‍🦱🧑‍🦱
 
 ## Project Overview
 
@@ -29,11 +29,13 @@ This project aims to segment customers into distinct groups based on their purch
 ## How to Run the Project
 
  **Clone the repository**:
+ 
     ```bash
     git clone https://github.com/sandyg6/prasunet.git
     ```
 
  **Run the Streamlit Application**:
+ 
     ```bash
     streamlit run app.py
     ```
