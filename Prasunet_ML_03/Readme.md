@@ -3,6 +3,7 @@
 ## Project Description
 
 This project aims to build a machine learning model that classifies images of cats and dogs using the Support Vector Machine (SVM) algorithm. The model is trained on a dataset of labeled cat and dog images, and it is capable of accurately distinguishing between the two classes. The project includes a Jupyter Notebook for data processing and model training, and a Streamlit application for image classification.
+[Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 ## Features
 
