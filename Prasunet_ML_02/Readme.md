@@ -28,18 +28,17 @@ This project aims to segment customers into distinct groups based on their purch
 
 ## How to Run the Project
 
- **Clone the repository**:
+ **Clone the Repository**:
  
-    ```bash
-    git clone https://github.com/sandyg6/prasunet.git
-    ```
+   ```bash
+   https://github.com/sandyg6/PRASUNET.git
+   ```
 
- **Run the Streamlit Application**:
+ **Run the Streamlit App**:
  
-    ```bash
-    streamlit run app.py
-    ```
-
+   ```bash
+   streamlit run house_price_prediction_app.py
+   ```
 
 ## Results
 
