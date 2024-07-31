@@ -3,6 +3,7 @@
 ## Project Overview
 
 The Hand Gesture Recognition Model project aims to develop a deep learning model capable of recognizing various hand gestures in real-time. This project leverages convolutional neural networks (CNNs) to process and classify hand gesture images. The trained model can be used for applications such as sign language recognition, gesture-based control systems, and enhanced human-computer interaction. The project involves data collection, model training and evaluation, and a real-time recognition interface using a webcam.
+[Dataset](https://www.kaggle.com/gti-upm/leapgestrecog)
 
 ## Features
 
