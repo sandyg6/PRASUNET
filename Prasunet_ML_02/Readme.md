@@ -37,7 +37,7 @@ This project aims to segment customers into distinct groups based on their purch
  **Run the Streamlit App**:
  
    ```bash
-   streamlit run house_price_prediction_app.py
+   streamlit run customer_clustering_app.py
    ```
 
 ## Results
